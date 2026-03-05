@@ -10,7 +10,7 @@
 name: pain
 aka: d08
 org: <128>, KDL
-focus: AI systems engineering & automation
+focus: AI systems engineering & automation 
 building: autonomous assistants, AI workflows, dev automation
 ```
 
