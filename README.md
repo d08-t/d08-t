@@ -1,79 +1,307 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2D1B3D,100:C86589&height=200&section=header&text=d08&fontSize=80&fontColor=C86589&animation=fadeIn&fontAlignY=35&desc=AI+systems+engineer+%7C+automation+architect&descSize=16&descAlignY=55&descAlign=50&descColor=8B7EA8"/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&random=false&width=600&height=60&lines=sap%2C+i'm+d08;building+autonomous+AI+workflows;human-AI+symbiosis+in+progress)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=1000&color=C86589&center=true&vCenter=true&width=600&height=50&lines=%E2%96%88+SYSTEM+BOOT+SEQUENCE+INITIATED;%E2%96%88+LOADING+OPERATOR+PROFILE:+PAIN;%E2%96%88+ORG:+128TEAM+%C2%B7+KDL+DEVELOPMENT;%E2%96%88+STATUS:+ALL+SYSTEMS+NOMINAL" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1225,100:0D1117&height=2"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=4000&pause=500&color=8B7EA8&center=true&vCenter=true&width=500&height=30&lines=full-stack+dev+%2F+AI+systems+engineer;building+autonomous+agents+%26+workflows;human-AI+symbiosis+in+progress" />
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="140">
+
+```
+┌─────────┐
+│  ROLE   │
+├─────────┤
+│FULL-STCK│
+│   DEV   │
+└─────────┘
+```
+
+</td>
+<td align="center" width="140">
+
+```
+┌─────────┐
+│  SPEC   │
+├─────────┤
+│ AI SYS  │
+│ENGINEER │
+└─────────┘
+```
+
+</td>
+<td align="center" width="140">
+
+```
+┌─────────┐
+│  MODE   │
+├─────────┤
+│AUTONOMUS│
+│WORKFLOWS│
+└─────────┘
+```
+
+</td>
+<td align="center" width="140">
+
+```
+┌─────────┐
+│ STATUS  │
+├─────────┤
+│ ██████  │
+│ ACTIVE  │
+└─────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1225,100:0D1117&height=2"/>
+
 ---
 
-```yaml
-name: pain
-aka: d08
-org: <128>, KDL
-focus: AI systems engineering & automation 
-building: autonomous assistants, AI workflows, dev automation
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=2000&color=C86589&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%E2%97%88+SUBSYSTEMS+%E2%97%88" />
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+```
+╔═══════════════════════════════════╗
+║ ▸ SYNTH                    [PVT] ║
+║   AI agent orchestrator           ║
+║   Claude Code CLI · TypeScript    ║
+║   Dynamic roles · Retry loops     ║
+║   Git integration · REPL mode     ║
+║   STATUS: ████████████░░ 85%      ║
+╚═══════════════════════════════════╝
+```
+
+</td>
+<td width="50%">
+
+```
+╔═══════════════════════════════════╗
+║ ▸ CodeC                    [PVT] ║
+║   Claude Code approval bot        ║
+║   JS · Telegram Bot API           ║
+║   Modular v4 · DI pattern         ║
+║   Multi-agent orchestration       ║
+║   STATUS: ██████████████ LIVE     ║
+╚═══════════════════════════════════╝
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+```
+╔═══════════════════════════════════╗
+║ ▸ TeleScreen                [PUB]║
+║   PC remote via Telegram          ║
+║   Python · Gemini Vision          ║
+║   Multi-monitor · AI clicks       ║
+║   Confirmation system             ║
+║   STATUS: ██████████████ LIVE     ║
+╚═══════════════════════════════════╝
+```
+
+</td>
+<td width="50%">
+
+```
+╔═══════════════════════════════════╗
+║ ▸ NekoOS                   [PVT] ║
+║   AI desktop companion            ║
+║   Rust · Tauri · Svelte           ║
+║   Autonomous actions · Approvals  ║
+║   Claude API integration          ║
+║   STATUS: ██░░░░░░░░░░░░ DESIGN  ║
+╚═══════════════════════════════════╝
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+```
+╔═══════════════════════════════════╗
+║ ▸ THRESHOLD                [PVT] ║
+║   Visual novel · Ren'Py 8.x      ║
+║   Dual protagonists               ║
+║   Momentum system · Cross-save    ║
+║   GDD v3.0 · Custom loc           ║
+║   STATUS: ████████░░░░░░ PAUSED   ║
+╚═══════════════════════════════════╝
+```
+
+</td>
+<td width="50%">
+
+```
+╔═══════════════════════════════════╗
+║ ▸ tm_scripts                [PUB]║
+║   Userscript collection           ║
+║   JS · Tampermonkey · SOLID       ║
+║   SG Toolkit Pro v3.1.0           ║
+║   YummyAnime Grid View v1.6.0    ║
+║   STATUS: ██████████████ LIVE     ║
+╚═══════════════════════════════════╝
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+```
+╔═══════════════════════════════════╗
+║ ▸ planpok                  [PVT] ║
+║   Planning poker tool             ║
+║   TypeScript · Apache 2.0         ║
+║   Team estimation sessions        ║
+║                                   ║
+║   STATUS: ████░░░░░░░░░░ DEV     ║
+╚═══════════════════════════════════╝
+```
+
+</td>
+<td width="50%">
+
+```
+╔═══════════════════════════════════╗
+║ ▸ assets                   [PUB] ║
+║   Shared static resources         ║
+║   Common assets for 128team       ║
+║                                   ║
+║                                   ║
+║   STATUS: ██████████████ STABLE   ║
+╚═══════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1225,100:0D1117&height=2"/>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=2000&color=C86589&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%E2%97%88+LOADOUT+%E2%97%88" />
+
+**`LANG_MODULES`**
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,rust,vue,nuxt&theme=dark&perline=6)](https://skillicons.dev)
+
+**`INFRA_MODULES`**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,postgres,bash,vscode&theme=dark&perline=8)](https://skillicons.dev)
+
+**`AI_MODULES`**
+
+<a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=C86589" /></a>
+<a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=C86589" /></a>
+<a href="https://deepmind.google/technologies/gemini/"><img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=C86589" /></a>
+<a href="https://huggingface.co"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" /></a>
+<a href="https://langchain.com"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=8B7EA8" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1225,100:0D1117&height=2"/>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=2000&color=C86589&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%E2%97%88+DIAGNOSTICS+%E2%97%88" />
+
+<a href="https://github.com/d08-t">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d08-t&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C86589&icon_color=8B7EA8&text_color=C9D1D9&ring_color=C86589" />
+</a>
+<a href="https://github.com/d08-t">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d08-t&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C86589&text_color=C9D1D9&langs_count=8" />
+</a>
+
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=d08-t&theme=dark&hide_border=true&background=0D1117&ring=C86589&fire=8B7EA8&currStreakLabel=C86589&sideLabels=8B7EA8&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=484F58)](https://git.io/streak-stats)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1225,100:0D1117&height=2"/>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=2000&color=C86589&center=true&vCenter=true&repeat=false&width=350&height=40&lines=%E2%97%88+CONTRIBUTION+MAP+%E2%97%88" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/d08-t/d08-t/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/d08-t/d08-t/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://github.com/d08-t/d08-t/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br><br>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d08-t&theme=github-compact&hide_border=true&bg_color=0d1117&color=C86589&line=C86589&point=8B7EA8&area=true&area_color=1A1225)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1225,100:0D1117&height=2"/>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=2000&color=C86589&center=true&vCenter=true&repeat=false&width=350&height=40&lines=%E2%97%88+CORE+DIRECTIVE+%E2%97%88" />
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   > I automate what I think.                         ║
+║   > I systemize what I repeat.                       ║
+║   > I build what I don't want to do twice.           ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ---
 
-### AI Ecosystem
-
 <div align="center">
 
-<a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-<a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
-<a href="https://huggingface.co"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-<a href="https://langchain.com"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=2000&color=C86589&center=true&vCenter=true&repeat=false&width=200&height=40&lines=%E2%97%88+COMMS+%E2%97%88" />
+
+<a href="https://t.me/d128d08"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=C86589" alt="Telegram"/></a>
+<a href="https://habr.com/ru/users/d08/"><img src="https://img.shields.io/badge/Habr-0D1117?style=for-the-badge&logo=habr&logoColor=C86589" alt="Habr"/></a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=d08-t&color=C86589&style=flat-square&label=SCANS)
 
 </div>
 
-### Tools & Infrastructure
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,docker,linux,git,github,githubactions,postgres,bash&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
-
----
-
-### Philosophy
-
-> *I automate what I think.*
-> *I systemize what I repeat.*
-> *I build what I don't want to do twice.*
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=d08-t&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d08-t&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### Connect
-
-<div align="center">
-
-<a href="https://habr.com/ru/users/d08/"><img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"/></a>
-<a href="https://t.me/d128d08"><img src="https://img.shields.io/badge/Tg-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=d08-t&color=58a6ff&style=flat-square&label=Profile+Views)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2D1B3D,100:C86589&height=120&section=footer"/>
