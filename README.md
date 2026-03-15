@@ -236,12 +236,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=2000&color=C86589&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%E2%97%88+DIAGNOSTICS+%E2%97%88" />
 
-<a href="https://github.com/d08-t">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d08-t&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C86589&icon_color=8B7EA8&text_color=C9D1D9&ring_color=C86589" />
-</a>
-<a href="https://github.com/d08-t">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d08-t&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C86589&text_color=C9D1D9&langs_count=8" />
-</a>
+
+
 
 <br><br>
 
@@ -271,25 +267,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1225,100:0D1117&height=2"/>
 
----
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=2000&color=C86589&center=true&vCenter=true&repeat=false&width=350&height=40&lines=%E2%97%88+CORE+DIRECTIVE+%E2%97%88" />
-
-</div>
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   > I automate what I think.                         ║
-║   > I systemize what I repeat.                       ║
-║   > I build what I don't want to do twice.           ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
 
 <div align="center">
 
