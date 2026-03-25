@@ -268,7 +268,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1225,100:0D1117&height=2"/>
 
 
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=2000&color=C86589&center=true&vCenter=true&repeat=false&width=200&height=40&lines=%E2%97%88+COMMS+%E2%97%88" />
